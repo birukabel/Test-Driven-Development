@@ -1,0 +1,14 @@
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+D:\Andela\UnitTesting\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
